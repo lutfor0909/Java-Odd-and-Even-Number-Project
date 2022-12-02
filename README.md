@@ -1,1 +1,1 @@
-# Java-Odd-and-Even-Number-Project
+# Java Script-Odd-and-Even-Project
